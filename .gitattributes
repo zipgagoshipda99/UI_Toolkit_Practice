@@ -1,0 +1,5 @@
+*.mat linguist-vendored
+*.wlt linguist-vendored
+*.asset linguist-vendored
+*.prefab linguist-vendored
+*.unity linguist-vendored

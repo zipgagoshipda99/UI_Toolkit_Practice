@@ -1,0 +1,8 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/SampleUSS.uss?fileID=7433441132597879392&amp;guid=ee48035c39f0f704cbe816382351ca5b&amp;type=3#SampleUSS"/>
+    <ui:VisualElement style="flex-grow: 1;">
+        <ui:Label text="ZIPGAGOSHIPDA" class="labeltext"/>
+        <ui:Label text="ZIPGAGOSHIPDA" class="labeltext"/>
+        <ui:Label text="ZIPGAGOSHIPDA" class="labeltext"/>
+    </ui:VisualElement>
+</ui:UXML>
