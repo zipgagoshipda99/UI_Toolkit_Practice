@@ -437,6 +437,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RotateButton
   objectToSpinRotate: {fileID: 57061793}
+  meshRenderer: {fileID: 57061795}
 --- !u!1 &2018540303
 GameObject:
   m_ObjectHideFlags: 0
